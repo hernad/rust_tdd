@@ -1,0 +1,6 @@
+[package]
+name = "rust_tdd"
+version = "0.1.0"
+authors = ["Ernad Husremovic <hernad@bring.out.ba>"]
+
+[dependencies]
